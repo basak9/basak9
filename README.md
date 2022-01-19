@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @basak9
 - 👀 I’m interested in space, games and films
-- 🌱 I’m currently learning english, spanish
+- 🌱 I’m currently learning english
 - 💞️ I’m looking to collaborate on c, c+ and pyhton
 - 📫 How to reach me space lover
 
